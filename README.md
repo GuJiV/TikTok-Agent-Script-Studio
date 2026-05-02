@@ -1,12 +1,10 @@
 # TikTok Agent Script Studio
 
-一个面向 TikTok / Reels / Shorts 的 **AI Agent 短视频创意生产工作台**。项目通过多 Agent 协作，把一个简单的产品或主题 brief 自动扩展为：趋势洞察、爆款 Hook、口播文案、分镜脚本、镜头设计、字幕节奏、B-roll 建议、CTA、风险检查和可交付拍摄清单。
-
-> 这个仓库适合作为 MiMo / OpenAI-compatible API 的真实高 Token 应用案例：一次生成会经历趋势分析、文案创作、分镜规划、合规审查、质量评分和多格式导出，天然适合长上下文、多轮 Agent 和批量变体生成。
+一个面向 TikTok / Reels / Shorts 的 **AI Agent 短视频创意生产工作台**。项目通过多 Agent 协作，把一个简单的产品或主题 brief 自动扩展为：趋势洞察、爆款 Hook、口播文案、分镜脚本、镜头设计、字幕节奏、B-roll 建议、CTA、风险检查和可交付拍摄清单。但是一次生成会经历趋势分析、文案创作、分镜规划、合规审查、质量评分和多格式导出，天然适合长上下文、多轮 Agent 和批量变体生成。
 
 ## Demo 输出
 
-项目内置 mock 模型，不配置 API Key 也能跑通完整流程：
+项目内置 mock 模型，跑通完整流程：
 
 ```bash
 pnpm install
@@ -35,7 +33,7 @@ runs/demo-campaign/
 - **Web Demo**：一个简单的 React 前端，用于演示 brief 输入和生成结果。
 - **API Server**：Express 后端，提供 `/api/generate` 接口。
 
-## 为什么适合申请高额度 Token Plan
+## Token消耗较高
 
 这个项目不是普通聊天 Demo，而是一个高消耗、多阶段、多角色的 Agent 任务。真实运行时，每个 brief 都会产生：
 
@@ -47,7 +45,7 @@ runs/demo-campaign/
 6. 合规审查与质量评分；
 7. 多轮修订和 A/B 版本生成。
 
-这类任务非常适合测试模型的长上下文理解、结构化输出稳定性、创意质量、多 Agent 协作能力和高频 API 调用能力。
+这类任务非常考验模型的长上下文理解、结构化输出稳定性、创意质量、多 Agent 协作能力和高频 API 调用能力。
 
 ## 技术栈
 
