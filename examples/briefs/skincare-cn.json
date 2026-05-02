@@ -1,0 +1,28 @@
+{
+  "brandName": "ClearGlow",
+  "productOrTopic": "适合熬夜党的温和清洁护肤流程",
+  "niche": "skincare routine",
+  "targetAudience": "18-28 岁经常熬夜、想要简化护肤流程的 TikTok 用户",
+  "language": "中文",
+  "region": "Southeast Asia",
+  "objective": "提升品牌账号关注和产品试用申请",
+  "durationSec": 35,
+  "tone": "真实、轻松、像朋友推荐，不夸大效果",
+  "keySellingPoints": [
+    "温和清洁",
+    "流程简单",
+    "适合忙碌人群",
+    "不做医疗功效承诺"
+  ],
+  "cta": "评论区输入 routine 获取完整清单",
+  "platform": "tiktok",
+  "constraints": [
+    "不得承诺祛痘、治疗或永久改善",
+    "避免医美化表述"
+  ],
+  "trendInputs": [
+    "night routine",
+    "get ready with me",
+    "skin reset"
+  ]
+}

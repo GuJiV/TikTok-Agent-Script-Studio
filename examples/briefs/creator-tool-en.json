@@ -1,0 +1,26 @@
+{
+  "brandName": "GlowByte",
+  "productOrTopic": "AI-powered content planner for solo creators",
+  "niche": "creator productivity",
+  "targetAudience": "TikTok creators who post 3-5 times per week",
+  "language": "English",
+  "region": "US",
+  "objective": "drive waitlist signups",
+  "durationSec": 35,
+  "tone": "native, energetic, practical",
+  "keySellingPoints": [
+    "turns one idea into 10 video angles",
+    "creates hooks, scripts and shot lists",
+    "exports production-ready briefs"
+  ],
+  "cta": "Join the early access waitlist",
+  "platform": "tiktok",
+  "constraints": [
+    "Do not claim guaranteed virality or revenue."
+  ],
+  "trendInputs": [
+    "creator burnout",
+    "content calendar",
+    "AI workflow"
+  ]
+}

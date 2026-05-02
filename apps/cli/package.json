@@ -1,0 +1,17 @@
+{
+  "name": "@tas/cli",
+  "version": "0.1.0",
+  "type": "module",
+  "bin": {
+    "tas": "dist/index.js"
+  },
+  "scripts": {
+    "dev": "tsx src/index.ts",
+    "build": "tsc -p tsconfig.json",
+    "test": "echo 'cli tests are covered by core package'"
+  },
+  "dependencies": {
+    "@tas/core": "workspace:*",
+    "dotenv": "^16.4.5"
+  }
+}

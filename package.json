@@ -1,0 +1,23 @@
+{
+  "name": "tiktok-agent-script-studio",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Multi-agent TikTok script, copywriting, storyboard and shot-design studio powered by OpenAI-compatible LLM APIs.",
+  "author": "your-name",
+  "license": "MIT",
+  "packageManager": "pnpm@9.15.0",
+  "scripts": {
+    "build": "pnpm -r build",
+    "test": "pnpm -r test",
+    "dev:api": "pnpm --filter @tas/api dev",
+    "dev:web": "pnpm --filter @tas/web dev",
+    "generate:demo": "pnpm --filter @tas/cli dev -- --brief examples/briefs/skincare-cn.json --out runs/demo-campaign --mock",
+    "benchmark:demo": "pnpm --filter @tas/cli dev -- --brief-dir examples/briefs --out runs/benchmark --mock"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.12",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3",
+    "vitest": "^2.1.4"
+  }
+}

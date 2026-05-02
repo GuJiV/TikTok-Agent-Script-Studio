@@ -1,0 +1,264 @@
+{
+  "id": "glowbyte-sample-campaign",
+  "createdAt": "2026-05-02T00:00:00.000Z",
+  "brief": {
+    "brandName": "GlowByte",
+    "productOrTopic": "AI-powered content planner for solo creators",
+    "niche": "creator productivity",
+    "targetAudience": "TikTok creators who post 3-5 times per week",
+    "language": "English",
+    "region": "US",
+    "objective": "drive waitlist signups",
+    "durationSec": 35,
+    "tone": "native, energetic, practical",
+    "keySellingPoints": [
+      "turns one idea into 10 video angles",
+      "creates hooks, scripts and shot lists",
+      "exports production-ready briefs"
+    ],
+    "cta": "Join the early access waitlist",
+    "platform": "tiktok",
+    "constraints": [
+      "Do not claim guaranteed virality or revenue."
+    ],
+    "trendInputs": [
+      "creator burnout",
+      "content calendar",
+      "AI workflow"
+    ]
+  },
+  "trendInsights": [
+    {
+      "angle": "One idea becomes a full content system",
+      "audienceTension": "Solo creators know they should post consistently but lose time turning ideas into shootable videos.",
+      "contentPattern": "Open with a blank notes app, reveal a complete board of hooks, script blocks and shot cards.",
+      "evidenceNote": "Designed around TikTok-first storytelling, trends as templates, and vertical production principles."
+    },
+    {
+      "angle": "Stop asking AI for copy only",
+      "audienceTension": "Many creators get generic scripts but still do not know what to film.",
+      "contentPattern": "Compare a plain AI paragraph with a production-ready shot list.",
+      "evidenceNote": "Highlights the product's core difference: script plus camera direction."
+    }
+  ],
+  "hooks": [
+    {
+      "id": "hook-1",
+      "hookLine": "If you still start every TikTok from a blank page, this workflow can save your whole content day.",
+      "onScreenText": "Stop starting from zero",
+      "visualAction": "Creator opens an empty notes app, then taps once to reveal a complete script board.",
+      "reason": "Clear pain point and transformation."
+    },
+    {
+      "id": "hook-2",
+      "hookLine": "I turned one basic product idea into 10 TikTok-ready videos.",
+      "onScreenText": "1 idea → 10 videos",
+      "visualAction": "Fast screen recording of one brief expanding into multiple hooks and shot lists.",
+      "reason": "Outcome is specific and visually demonstrable."
+    }
+  ],
+  "selectedHook": {
+    "id": "hook-1",
+    "hookLine": "If you still start every TikTok from a blank page, this workflow can save your whole content day.",
+    "onScreenText": "Stop starting from zero",
+    "visualAction": "Creator opens an empty notes app, then taps once to reveal a complete script board.",
+    "reason": "Clear pain point and transformation."
+  },
+  "script": [
+    {
+      "startSec": 0,
+      "endSec": 3,
+      "voiceover": "If you still start every TikTok from a blank page, this workflow can save your whole content day.",
+      "onScreenText": "Stop starting from zero",
+      "emotion": "direct"
+    },
+    {
+      "startSec": 3,
+      "endSec": 9,
+      "voiceover": "The problem is not having ideas. The problem is turning each idea into a hook, script, shot list and CTA.",
+      "onScreenText": "Ideas are not the bottleneck",
+      "emotion": "problem-aware"
+    },
+    {
+      "startSec": 9,
+      "endSec": 18,
+      "voiceover": "GlowByte turns one brief into multiple TikTok-ready creative routes: hooks, voiceover, scene design and captions.",
+      "onScreenText": "Brief → hooks → script → shots",
+      "emotion": "solution-focused"
+    },
+    {
+      "startSec": 18,
+      "endSec": 28,
+      "voiceover": "Pick the strongest hook, export the shot list, and send it directly to your editor or film it yourself.",
+      "onScreenText": "Make it shootable",
+      "emotion": "practical"
+    },
+    {
+      "startSec": 28,
+      "endSec": 35,
+      "voiceover": "Join the early access waitlist and start with one idea, not an empty page.",
+      "onScreenText": "Join the waitlist",
+      "emotion": "clear CTA"
+    }
+  ],
+  "shots": [
+    {
+      "shotNo": 1,
+      "startSec": 0,
+      "endSec": 1,
+      "framing": "tight face-to-camera, vertical 9:16",
+      "cameraMovement": "small push-in",
+      "visual": "Creator opens with direct eye contact and a fast gesture toward the text overlay.",
+      "broll": "Phone screen, creator desk, sticky notes, timeline, script cards.",
+      "caption": "Stop starting from zero",
+      "soundCue": "fast riser / tap sound",
+      "productionNote": "Keep text within the safe center area and cut every 1-3 seconds."
+    },
+    {
+      "shotNo": 2,
+      "startSec": 1,
+      "endSec": 3,
+      "framing": "over-the-shoulder or screen recording crop",
+      "cameraMovement": "jump cut with 1.2x punch-in",
+      "visual": "Highlight the exact output that matches the voiceover: hook list, script block, or shot card.",
+      "broll": "Cursor moving, generated cards, export button, filming checklist.",
+      "caption": "If you still start every TikTok from a blank...",
+      "soundCue": "keyboard tap / notification pop",
+      "productionNote": "Use bold captions, 5-10 words per on-screen beat."
+    },
+    {
+      "shotNo": 3,
+      "startSec": 3,
+      "endSec": 6,
+      "framing": "medium shot with screen visible",
+      "cameraMovement": "static screen capture with quick zooms",
+      "visual": "Show the workflow UI, notes, or storyboard cards moving quickly.",
+      "broll": "Phone screen, creator desk, sticky notes, timeline, script cards.",
+      "caption": "Ideas are not the bottleneck",
+      "soundCue": "soft whoosh transition",
+      "productionNote": "Keep text within the safe center area and cut every 1-3 seconds."
+    },
+    {
+      "shotNo": 4,
+      "startSec": 6,
+      "endSec": 9,
+      "framing": "over-the-shoulder or screen recording crop",
+      "cameraMovement": "jump cut with 1.2x punch-in",
+      "visual": "Highlight the exact output that matches the voiceover: hook list, script block, or shot card.",
+      "broll": "Cursor moving, generated cards, export button, filming checklist.",
+      "caption": "The problem is not having ideas. The problem...",
+      "soundCue": "keyboard tap / notification pop",
+      "productionNote": "Use bold captions, 5-10 words per on-screen beat."
+    },
+    {
+      "shotNo": 5,
+      "startSec": 9,
+      "endSec": 13,
+      "framing": "medium shot with screen visible",
+      "cameraMovement": "static screen capture with quick zooms",
+      "visual": "Show the workflow UI, notes, or storyboard cards moving quickly.",
+      "broll": "Phone screen, creator desk, sticky notes, timeline, script cards.",
+      "caption": "Brief → hooks → script → shots",
+      "soundCue": "soft whoosh transition",
+      "productionNote": "Keep text within the safe center area and cut every 1-3 seconds."
+    },
+    {
+      "shotNo": 6,
+      "startSec": 13,
+      "endSec": 18,
+      "framing": "over-the-shoulder or screen recording crop",
+      "cameraMovement": "jump cut with 1.2x punch-in",
+      "visual": "Highlight the exact output that matches the voiceover: hook list, script block, or shot card.",
+      "broll": "Cursor moving, generated cards, export button, filming checklist.",
+      "caption": "GlowByte turns one brief into multiple TikTo...",
+      "soundCue": "keyboard tap / notification pop",
+      "productionNote": "Use bold captions, 5-10 words per on-screen beat."
+    },
+    {
+      "shotNo": 7,
+      "startSec": 18,
+      "endSec": 23,
+      "framing": "medium shot with screen visible",
+      "cameraMovement": "static screen capture with quick zooms",
+      "visual": "Show the workflow UI, notes, or storyboard cards moving quickly.",
+      "broll": "Phone screen, creator desk, sticky notes, timeline, script cards.",
+      "caption": "Make it shootable",
+      "soundCue": "soft whoosh transition",
+      "productionNote": "Keep text within the safe center area and cut every 1-3 seconds."
+    },
+    {
+      "shotNo": 8,
+      "startSec": 23,
+      "endSec": 28,
+      "framing": "over-the-shoulder or screen recording crop",
+      "cameraMovement": "jump cut with 1.2x punch-in",
+      "visual": "Highlight the exact output that matches the voiceover: hook list, script block, or shot card.",
+      "broll": "Cursor moving, generated cards, export button, filming checklist.",
+      "caption": "Pick the strongest hook, export the shot lis...",
+      "soundCue": "keyboard tap / notification pop",
+      "productionNote": "Use bold captions, 5-10 words per on-screen beat."
+    },
+    {
+      "shotNo": 9,
+      "startSec": 28,
+      "endSec": 31,
+      "framing": "medium shot with screen visible",
+      "cameraMovement": "static screen capture with quick zooms",
+      "visual": "Show the workflow UI, notes, or storyboard cards moving quickly.",
+      "broll": "Phone screen, creator desk, sticky notes, timeline, script cards.",
+      "caption": "Join the waitlist",
+      "soundCue": "soft whoosh transition",
+      "productionNote": "Keep text within the safe center area and cut every 1-3 seconds."
+    },
+    {
+      "shotNo": 10,
+      "startSec": 31,
+      "endSec": 35,
+      "framing": "over-the-shoulder or screen recording crop",
+      "cameraMovement": "jump cut with 1.2x punch-in",
+      "visual": "Highlight the exact output that matches the voiceover: hook list, script block, or shot card.",
+      "broll": "Cursor moving, generated cards, export button, filming checklist.",
+      "caption": "Join the early access waitlist and start wit...",
+      "soundCue": "keyboard tap / notification pop",
+      "productionNote": "Use bold captions, 5-10 words per on-screen beat."
+    }
+  ],
+  "captions": {
+    "title": "GlowByte: from idea to shootable TikTok plan",
+    "caption": "One idea is enough when your workflow turns it into hooks, scripts and shot lists. Join the early access waitlist",
+    "hashtags": [
+      "#TikTokMarketing",
+      "#ContentCreation",
+      "#AIAgents",
+      "#VideoScript",
+      "#CreatorTools"
+    ],
+    "pinnedComment": "Comment \"brief\" and I will share the exact structure used to generate this video plan."
+  },
+  "compliance": [
+    {
+      "severity": "low",
+      "area": "claim strength",
+      "issue": "Avoid promising guaranteed virality or revenue outcomes.",
+      "saferRewrite": "Use 'designed to help creators test more structured ideas' instead of guaranteed performance claims."
+    }
+  ],
+  "score": {
+    "hookStrength": 8,
+    "clarity": 8,
+    "platformFit": 9,
+    "productionFeasibility": 8,
+    "ctaStrength": 8,
+    "overall": 8,
+    "notes": [
+      "Strongest when the first shot visually demonstrates the promise.",
+      "Keep captions short and readable.",
+      "Record 2-3 alternate hooks before filming the full script."
+    ]
+  },
+  "editorNotes": [
+    "Shoot vertical 9:16 and keep the first visual change within 1 second.",
+    "Use captions as meaning, not decoration.",
+    "Create at least 3 hook variants before deciding which version to film."
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "brandName": "DailyTriLang",
+  "productOrTopic": "每日三语学习包：英语、中文、日语",
+  "niche": "language learning",
+  "targetAudience": "想轻松入门日语和英语的中文用户",
+  "language": "中文",
+  "region": "China / Japan interest",
+  "objective": "引导用户关注账号并领取每日学习模板",
+  "durationSec": 45,
+  "tone": "温柔、清晰、适合零基础",
+  "keySellingPoints": [
+    "每天 5 分钟",
+    "单词 + 会话 + 语法",
+    "附假名和罗马音"
+  ],
+  "cta": "关注后评论 学习包 获取今日模板",
+  "platform": "tiktok",
+  "constraints": [
+    "避免承诺几天学会一门语言"
+  ],
+  "trendInputs": [
+    "study with me",
+    "Japanese beginner",
+    "daily routine"
+  ]
+}
